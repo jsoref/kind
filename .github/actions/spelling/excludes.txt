@@ -1,0 +1,11 @@
+^\.github/
+^pkg/cluster/internal/providers/docker/network_test\.go$
+/third_party/
+(?:^|/)LICENSE$
+ignore$
+\.go-version$
+\.ico$
+\.mod$
+\.png$
+\.sum$
+\.svg$
